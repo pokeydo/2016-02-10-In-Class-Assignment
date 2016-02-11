@@ -1,3 +1,63 @@
 body {
   background-image: url("https://christianmarsh.files.wordpress.com/2014/04/90sbg.gif");
 }
+
+h1{
+  color: #551a8b;
+  font-family: impact, sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2{
+  color: #551a8b;
+  font-family: impact, sans-serif;
+  font-size: 35px;
+  text-align: center;
+}
+
+img,
+p {
+  color: #551a8b
+  font-family: impact, sans-serif;
+  font-size: 25px;
+  width: 70%;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+}
+
+img{
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+p{
+  margin-top: 2em auto;
+  font-family: impact, sans-serif;
+  text-align: center;
+}
+
+a{
+  margin: 2em auto 4em;
+  display: table;
+  color: white;
+  font-family: impact, sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0.5em;
+  border: solid 2px black;
+}
+
+a:hover {
+  background-color: darkgreen;
+}
+
+a:active{
+  background-color: green;
+}
+
+h3{
+  text-align: center;
+}
